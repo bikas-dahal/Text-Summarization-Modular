@@ -19,3 +19,6 @@ fastapi
 uvicorn
 jinja2 
 -e .
+
+
+# https://github.com/entbappy/Branching-tutorial/raw/master/samsumdata.zip
